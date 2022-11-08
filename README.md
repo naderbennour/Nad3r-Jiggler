@@ -1,4 +1,4 @@
-# Nader's Jiggler
+# Nad3rverse Jiggler
 
 This is a simple PySimpleGUI-based app that allows you to move your mouse around automatically.
 
