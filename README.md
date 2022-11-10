@@ -5,6 +5,7 @@ This is a simple PySimpleGUI-based app that allows you to move your mouse around
 Just launch the app and click "Start" to begin. Your mouse will start moving around automatically. To stop, just click "Stop".
 
 ## Installation
+To convert the script to an executable:
 
 1. Run the following command
 
