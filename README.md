@@ -12,8 +12,7 @@ To convert the script to an executable:
 ```bash
 python3 setup.py build
 ```
-2. If your script is error free, then there will be no problem on creating application.
-3. Check the newly created folder build. It has another folder in it. 
+2. Check the newly created folder build. It has another folder in it. 
    Within that folder you can find your application. 
    Run it. 
    Make yourself happy. 😊
